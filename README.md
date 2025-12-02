@@ -2,8 +2,6 @@
 
 ## I'm Nour, an Android Developer 👨‍💻
 
-## 👾 About Me
-- 🔭 I’m currently working on Android Development.
 - 📫 You can reach me at [noureldensaid.bus@gmail.com](mailto:noureldensaid.bus@gmail.com).
 - 👯 I’m looking to collaborate on open source projects.
   
@@ -24,9 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="49" width="49" alt="Java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" width="36" alt="Kotlin logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="36" width="36" alt="Android logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" width="36" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" width="36" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="39" width="39" alt="Firebase logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="39" width="39" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="39" width="39" alt="Gradle logo" />
 </p>
