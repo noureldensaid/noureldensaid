@@ -1,4 +1,4 @@
-<h1 align="center">Hellö 🥳, I'm Nour</h1>
+<h1 align="center">Hello 🥳, I'm Nour</h1>
 
 <br/>
 
@@ -35,7 +35,8 @@ I'm
 * You can reach me at [noureldensaid.bus@gmail.com](mailto:noureldensaid.bus@gmail.com).
 * [CV](https://drive.google.com/file/d/1VxQTsF0d1X4sJOQ6zC1DSFHV4wBOHrgt/view?usp=drivesdk).
 
-## 🌐 Connect with me:
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://linkedin.com/in/noureldensaid" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25px" width="30px" />
